@@ -11,7 +11,7 @@ Bacharel em Sistemas de Informação
 * Sistema Operacional
 * Hardware
 
-<h3>SO</h3>
+<h3>Funções do SO</h3>
 * Processo
 * Meméria
 * Arguivos
