@@ -5,7 +5,7 @@ Sistemas Operacionais 1
 
 Bacharel em Sistemas de Informação
 
-<h3>Sitema Computacional</h3>
+<h3>Sistema Computacional</h3>
 * Usuário
 * Software
 * Sistema Operacional
@@ -13,13 +13,13 @@ Bacharel em Sistemas de Informação
 
 <h3>Funções do SO</h3>
 * Processo
-* Meméria
-* Arguivos
+* Memória
+* Arquivos
 * I/O
 
 <h3>Processos</h3>
-* MonoProcessado - DOS
-* MultiProcessado - Windows XP, Unix, Linux
+* Mono-Processado - DOS
+* Multi-Processado - Windows XP, Unix, Linux
 
 
 
