@@ -1,7 +1,7 @@
 Sistemas Operacionais
 ==
 
-Programação V
+Sistemas Operacionais 1
 
 Bacharel em Sistemas de Informação
 
@@ -11,6 +11,11 @@ Bacharel em Sistemas de Informação
 * Sistema Operacional
 * Hardware
 
+<h3>SO</h3>
+* Processo
+* Meméria
+* Arguivos
+* I/O
 
 <h3>Processos</h3>
 * MonoProcessado - DOS
