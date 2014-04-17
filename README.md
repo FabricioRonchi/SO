@@ -1,7 +1,7 @@
 Sistemas Operacionais
 ==
 
-Sistemas Operacionais 1
+Sistemas Operacionais I
 
 Bacharel em Sistemas de Informação
 
